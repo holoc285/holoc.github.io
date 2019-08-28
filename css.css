@@ -1,0 +1,45 @@
+body{
+	width: 800px;
+	height: auto;
+	margin-left: 270px;
+	font-size: 18;
+	font-family: Arial;
+	border-radius: 10px;
+}
+
+
+.main{
+	
+	width: 800px;
+	height: 190px;
+	border-radius: 5px;
+	padding-top: 0.5px;
+	padding-left: 0px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+
+
+}
+.footer{
+	padding: 5px;
+	background-color: green;
+}
+
+
+
+h2{
+	color: red;
+}
+hr{
+	color: red;
+}
+
+b{
+	color: white;
+}
+
+div{
+	color: yellow;
+
+
+}
