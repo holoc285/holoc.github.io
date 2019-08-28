@@ -22,7 +22,11 @@ body{
 }
 .footer{
 	padding: 5px;
-	background-color: green;
+	background-color: blue;
+	color: white;
+}
+.text_footer{
+	color: white;
 }
 
 
@@ -35,11 +39,11 @@ hr{
 }
 
 b{
-	color: white;
+	color: black;
 }
 
 div{
-	color: yellow;
+	color: black;
 
 
 }
